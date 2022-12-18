@@ -1,4 +1,4 @@
-﻿Clear-Host
+Clear-Host
 
 $ErrorActionPreference = 'SilentlyContinue'
 
@@ -26,7 +26,7 @@ function Select-FileDialog
 Write-Host "------------------- SHA1 Brute Force -------------------"
 Write-Host "`n"
 
-# Demandez à l'utilisateur d'entrer la clé MD5
+# Demandez à l'utilisateur d'entrer la clé SHA1
 $targetHash = Read-Host "Entrez la clé SHA1 à déchiffrer "
 
 # Demandez à l'utilisateur de choisir son dictionnaire
