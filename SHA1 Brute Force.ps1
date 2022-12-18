@@ -27,7 +27,7 @@ Write-Host "------------------- SHA1 Brute Force -------------------"
 Write-Host "`n"
 
 # Demandez à l'utilisateur d'entrer la clé MD5
-$targetHash = Read-Host "Entrez la clé MD5 à déchiffrer "
+$targetHash = Read-Host "Entrez la clé SHA1 à déchiffrer "
 
 # Demandez à l'utilisateur de choisir son dictionnaire
 $dic_path = Select-FileDialog -Title "Selectionnez votre dictionnaire"
