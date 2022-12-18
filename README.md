@@ -1,5 +1,5 @@
-# MD5 Brute Force
+# Brute Force Scripts :
 
-→ Ce script Powershell est à utilisé avec un dictionnaire
+→ Ces scripts Powershell sont à utilisés avec un dictionnaire.
 
-→ Le script utilisera beacoup de RAM
+→ Ces scripts consomment beaucoup de RAM.
